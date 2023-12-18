@@ -1,4 +1,74 @@
-### Hi there 👋
+<h1 style="position: absolute; color: white; bottom: 15px; transform: translate(-50%, 0); left: 50%">Exceptional Full Stack Legend</h1>
+<br>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" /> 
+<p>
+  Highly Skillful Full Stack Developer with over 7 years of experience in crafting elegant and efficient solutions for complex problems in Web Development. Not only proficient in high quality code and highly responsive UI development using wide range of programing languages, but also brilliant at handling problems in any part of process with ease, especially in React and Vue for front end development. Always with customers by going the extra mile to makes them unquestionably satisfied with our product and service. Constantly seeking new challenges and opportunities to learn and grow. When I'm not coding, you can find me hiking, playing guitar, or experimenting with new recipes in the kitchen.
+</p>
+<br/>
+
+<br/>
+
+  <div>
+  <h2 font-weight="bold">Programming Language</h2>
+   <div align="left">
+    <code><img alt="Nodejs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></code>
+    <code><img  alt="PHP" height="50" width="50" src="https://profilinator.rishav.dev/skills-assets/php-original.svg"/></code>
+    <code><img  alt="Solidity" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"></code>
+    <code><img alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/></code>
+    <a href="https://www.qt.io/" target="_blank">
+      <code><img  alt="qt" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"/></code>
+    </a>
+    <code><img alt="Kadu-Bootstrap" height="50" width="50" src="https://img.icons8.com/color/2x/javascript.png"/></code>
+    <code><img alt="TypeScript" height="50" width="50" src="https://img.icons8.com/color/2x/typescript.png"></code>
+    <code><img alt="CSS3" height="50" width="50" src="https://img.icons8.com/color/2x/css3.png"/></code>
+    <code><img alt="html5" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/></code>
+  </div>
+
+<h2 font-weight="bold">Back End</h2>
+
+  <div align="left">
+  <code><img alt="Express" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+  <code><img alt="Laravel" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
+  <code><img alt="nestjs" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"/></code>
+  <code><img alt="Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></code>
+
+  </div>
+<h2 font-weight="bold">Front End</h2>
+<div>
+  <div align="left">
+  <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
+  <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></code>
+  <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+    <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"></code>
+  <code><img alt="chartjs" width="50" height="50" src="https://www.chartjs.org/media/logo-title.svg"/></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"></code>
+  </div>
+</div>
+<h2 font-weight="bold">Other</h2>
+<div>
+  <div align="left">
+  <code><img alt="Html" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+  <code><img alt="CSS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/></code>
+  <code><img alt="SASS" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"></code>
+  <code><img alt="Symphoy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg"></code>
+  </div>
+</div>
 
 <!--
 **smartluckyman1107/smartluckyman1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
